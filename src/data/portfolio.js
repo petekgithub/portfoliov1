@@ -38,7 +38,19 @@ export default [
   {
     title: "Blogy Blog",
     imgUrl: "src/assets/quote.png",
-    stack: ["HTML", "CSS", "JavaScript", "ReactJS"],
+    stack: ["NodeJs", "JavaScript", "ReactJs"],
+    link: "",
+  },
+  {
+    title: "Realtime Chat App",
+    imgUrl: "src/assets/quote.png",
+    stack: ["Socket.io", "Nodejs", "ReactJs"],
+    link: "",
+  },
+  {
+    title: "React Dashboard App",
+    imgUrl: "src/assets/quote.png",
+    stack: ["Socket.io", "Nodejs", "ReactJs"],
     link: "",
   },
 ];

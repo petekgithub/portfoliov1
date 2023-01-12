@@ -14,7 +14,7 @@ export default [
       "I worked as a front-end developer on a project. We developed some parts and did the conversion to Reactjs. This was an online banking conversion project. I worked with IntellijIDE and Sourcetree on that project. ",
   },
   {
-    year: "Heidelberg University  (2019 - 2022)",
+    year: "Heidelberg University (2019 - 2022)",
     title: "Master of Science / ERASMUS",
     duration: "6 months",
     details:
@@ -35,7 +35,7 @@ export default [
       "After my chemistry bachelor, I applied to a master's program and I won the organic chemistry master's program at Uludag University. I worked on some polymers and at that time I worked as a laboratory assistant and worked with some specific chemistry machines.",
   },
   {
-    year: "Ege Univesity (2011 - 2017) ",
+    year: "Ege Univesity (2011 - 2017)",
     title: "Bachelor / Chemistry",
     duration: "4 years",
     details:

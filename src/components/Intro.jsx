@@ -10,22 +10,25 @@ const Intro = () => {
         FrontEnd Web Developer
       </p>
       <p className="text-sm max-w-xl mb-6 font-bold">
-        Welcome to my portfolio website! My name is Petek Hamitbeyli and I am a
-        React developer with over 1 year of experience building modern,
-        responsive, and user-friendly web applications. On this website, you
-        will find a selection of my best work, showcasing my skills and
-        experience as a React developer. From complex single-page apps to
-        responsive websites, I have built a wide range of projects using React,
-        Redux, JavaScript, HTML, and CSS.
+        Welcome! My name is Petek and I am a highly skilled frontend web
+        developer with over 1 year of experience of building modern, responsive,
+        and user-friendly web applications. I am well-versed in modern web
+        technologies such as HTML, CSS, and JavaScript / Typescript and has a
+        strong understanding of responsive design principles. On this website,
+        you will find a selection of my best work, showcasing my skills.
+        <br />
+        I also experienced in working with popular frontend frameworks such as
+        React. I am a quick learner and is always eager to stay up-to-date with
+        the latest trends and advancements in the industry. I am a dedicated
+        team player and is able to collaborate effectively with designers,
+        developers, and other stakeholders.
         <br />
         In addition to my portfolio, you will also find information about my
-        background, education, and experience, as well as my blog, where I share
-        my thoughts on the latest trends and developments in React and web
-        development. I am always looking to improve my skills and broaden my
-        knowledge, and I am open to new opportunities and challenges. If you
-        like what you see on my website, please feel free to contact me to
-        discuss how I can help you with your next project. Thank you for
-        visiting my website, and I hope you enjoy my work!
+        background, education, and experience. I am always looking to improve my
+        skills and broaden my knowledge, and I am open to new opportunities and
+        challenges. If you like what you see on my website, please feel free to
+        contact me to discuss how I can help you with your next project. Thank
+        you for visiting my website, and I hope you enjoy my work!
       </p>
       {/* Social Icons */}
       <div className="flex flex-row cursor-pointer justify-center space-x-2 md:space-x-8 mb-5 hover ? 'text-teal-500' : 'text-white-500'">

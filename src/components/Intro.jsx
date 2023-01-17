@@ -6,29 +6,30 @@ const Intro = () => {
       <h1 className="text-4xl md:text-7xl dark:text-white mb-1 md:mb-3 font-bold">
         Petek Savaş Hamitbeyli
       </h1>
-      <p className="text-base md:text-xl mb-3 font-medium">
+      <p className="text-base md:text-xl mb-3 font-bold">
         FrontEnd Web Developer
       </p>
-      <p className="text-sm max-w-xl mb-6 font-bold">
-        Welcome! My name is Petek and I am a highly skilled frontend web
-        developer with over 1 year of experience of building modern, responsive,
-        and user-friendly web applications. I am well-versed in modern web
-        technologies such as HTML, CSS, and JavaScript / Typescript and has a
-        strong understanding of responsive design principles. On this website,
-        you will find a selection of my best work, showcasing my skills.
+      <p className="text-sm max-w-xl mb-6 font-medium">
+        Welcome!
         <br />
-        I also experienced in working with popular frontend frameworks such as
-        React. I am a quick learner and is always eager to stay up-to-date with
-        the latest trends and advancements in the industry. I am a dedicated
-        team player and is able to collaborate effectively with designers,
-        developers, and other stakeholders.
+        I am a highly skilled frontend web developer with over 1 year of
+        experience of building modern, responsive, and user-friendly web
+        applications. I am well-versed in modern web technologies such as HTML,
+        CSS, and JavaScript / Typescript and has a strong understanding of
+        responsive design principles. I also experienced in working with popular
+        frontend frameworks such as React. I am a quick learner and is always
+        eager to stay up-to-date with the latest trends and advancements in the
+        industry. I am a dedicated team player and is able to collaborate
+        effectively with designers, developers, and other stakeholders.
+        <br />
         <br />
         In addition to my portfolio, you will also find information about my
-        background, education, and experience. I am always looking to improve my
-        skills and broaden my knowledge, and I am open to new opportunities and
-        challenges. If you like what you see on my website, please feel free to
-        contact me to discuss how I can help you with your next project. Thank
-        you for visiting my website, and I hope you enjoy my work!
+        background, education, and experience and, you will find a selection of
+        my best work. I am always looking to improve my skills and broaden my
+        knowledge, and I am open to new opportunities and challenges. If you
+        like what you see on my website, please feel free to contact me to
+        discuss how I can help you with your next project. Thank you for
+        visiting my website, and I hope you enjoy my work!
       </p>
       {/* Social Icons */}
       <div className="flex flex-row cursor-pointer justify-center space-x-2 md:space-x-8 mb-5 hover ? 'text-teal-500' : 'text-white-500'">

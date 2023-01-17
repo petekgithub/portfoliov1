@@ -6,21 +6,30 @@ const Contact = () => {
     <div className="flex flex-col mb-10 mx-auto">
       <div className="flex justify-center items-center">
         <form
-          action="https://getform.io/f/b5cb9d8d-c8f0-49ca-b4b9-2c986d0ae4af"
+          action="https://formsubmit.co/petekshamitbeyli@gmail.com"
           method="POST"
           className="flex flex-col w-full md:w-7/12"
         >
           <Title>Contact</Title>
+          <input type="hidden" name="_captcha" value="false" />
+          <input type="hidden" name="_subject" value="New email wohoo!" />
+          <input
+            type="hidden"
+            name="_next"
+            value="https://petek.ml/pages/thankyou.html"
+          />
           <input
             type="text"
             name="name"
             placeholder="Name"
+            required
             className="p-2 bg-transparent border-2 rounded-md focus:outline-none"
           />
           <input
             type="text"
             name="email"
-            placeholder="Email  "
+            placeholder="Email Address"
+            required
             className="my-2 p-2 bg-transparent border-2 rounded-md focus:outline-none"
           />
           <textarea
@@ -31,7 +40,7 @@ const Contact = () => {
           ></textarea>
           <button
             type="button"
-            className="text-center inline-block px-8 py-3 w-max text-base font-medium rounded-md text-white bg-gradient-to-r from-green-500 to-pink-500 drop-shadow-md hover:stroke-white"
+            className="text-center inline-block px-8 py-3 w-max text-base font-medium rounded-md text-white bg-gradient-to-r from-indigo-500 to-teal-500 drop-shadow-md hover:stroke-white"
           >
             Work With Me
           </button>

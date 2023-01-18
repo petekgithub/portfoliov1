@@ -35,7 +35,7 @@ const Intro = () => {
       <div className="flex flex-row cursor-pointer justify-center space-x-2 md:space-x-8 mb-5 hover ? 'text-teal-500' : 'text-white-500'">
         <a href="https://www.linkedin.com/in/petek-savas-hamitbeyli/">
           <svg
-            className="w-15 "
+            className="w-15"
             xmlns="http://www.w3.org/2000/svg"
             width="24"
             height="24"
@@ -49,6 +49,23 @@ const Intro = () => {
             <path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"></path>
             <rect x="2" y="9" width="4" height="12"></rect>
             <circle cx="4" cy="4" r="2"></circle>
+          </svg>
+        </a>
+        <a href="https://petekshamitbeyli.medium.com/">
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            x="0px"
+            y="0px"
+            width="24"
+            height="24"
+            viewBox="0 0 50 50"
+            fill="none"
+            stroke="currentColor"
+            stroke-width="2"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+          >
+            <path d="M30,43h17l-4-4l-0.027-28.496l3.891-4.49H34.845l-9.24,22.73L15.497,6H3l4,5.091v24.195L1,43h14l-6-7.714V13.75L22,43 l-0.002,0.014L34,13.545V39L30,43z M10.911,41H5.089L8,37.258L10.911,41z M21.922,37.899L10.828,12.938L8.633,8h5.564l9.581,21.556 l0.805,1.81L21.922,37.899z M35.414,40.414L36,39.828V39V13.545v-5.06l0.191-0.47h6.293l-1.022,1.18l-0.489,0.565l0.001,0.747 L41,39.002l0.001,0.827l0.585,0.585L42.172,41h-7.343L35.414,40.414z"></path>
           </svg>
         </a>
         <a href="https://twitter.com/Petekqt1">

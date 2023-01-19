@@ -24,6 +24,12 @@ export default [
     link: "https://fylo-dark-landing-page-five.vercel.app/",
   },
   {
+    title: "Uifry LandingPage",
+    imgUrl: "/assets/uifry.png",
+    stack: ["NextJS", "SCSS", "TypeScript"],
+    link: "https://landingpage-uifry.vercel.app/",
+  },
+  {
     title: "Guess Weather",
     imgUrl: "/assets/weather.png",
     stack: ["ReactJS", "TailwindCSS", "TypeScript"],

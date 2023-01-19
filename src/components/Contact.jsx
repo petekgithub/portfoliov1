@@ -59,7 +59,7 @@ const Contact = () => {
           <button
             type="submit"
             value="Send"
-            className="text-center inline-block px-8 py-3 w-max text-base font-medium rounded-md text-white bg-gradient-to-r from-indigo-500 to-teal-500 drop-shadow-md hover:stroke-white"
+            className="text-center inline-block px-8 py-3 w-max text-base font-medium rounded-md text-white bg-gradient-to-r from-indigo-300 to-teal-800 drop-shadow-md transition hover:text-blue-900"
           >
             Work With Me
           </button>

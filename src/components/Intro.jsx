@@ -3,33 +3,38 @@ import React from "react";
 const Intro = () => {
   return (
     <div className="flex items-center justify-center flex-col text-center pt-20 pb-6">
-      <h1 className="text-4xl md:text-7xl dark:text-white mb-1 md:mb-3 font-bold">
+      <h1 className="text-4xl md:text-6xl dark:text-white mb-1 md:mb-3 font-bold">
         Petek Savaş Hamitbeyli
       </h1>
-      <p className="text-base md:text-xl mb-3 font-bold">
-        FrontEnd Web Developer
+      <p className="text-7xl md:text-xl mb-3 font-bold">
+        <u>FrontEnd Web Developer</u>
       </p>
       <p className="text-sm max-w-xl mb-6 font-medium">
-        Welcome!
+        <strong>Welcome!</strong>
         <br />
-        I am a highly skilled frontend web developer with over 1 year of
-        experience of building modern, responsive, and user-friendly web
-        applications. I am well-versed in modern web technologies such as HTML,
-        CSS, and JavaScript / Typescript and has a strong understanding of
-        responsive design principles. I also experienced in working with popular
-        frontend frameworks such as React. I am a quick learner and is always
-        eager to stay up-to-date with the latest trends and advancements in the
-        industry. I am a dedicated team player and is able to collaborate
-        effectively with designers, developers, and other stakeholders.
+        <br />
+        I am a frontend web developer with over 1 year of experience of building
+        modern, responsive, and user-friendly web applications. I am well-versed
+        in modern web technologies such as HTML, CSS, and JavaScript /
+        Typescript and has a strong understanding of responsive design
+        principles. I also experienced in working with popular frontend
+        frameworks such as React. I am a quick learner and is always eager to
+        stay up-to-date with the latest trends and advancements in the industry.
+        I am a dedicated team player and is able to collaborate effectively with
+        designers, developers, and other stakeholders.
         <br />
         <br />
         In addition to my portfolio, you will also find information about my
         background, education, and experience and, you will find a selection of
         my best work. I am always looking to improve my skills and broaden my
-        knowledge, and I am open to new opportunities and challenges. If you
-        like what you see on my website, please feel free to contact me to
-        discuss how I can help you with your next project. Thank you for
-        visiting my website, and I hope you enjoy my work!
+        knowledge, and I am open to new opportunities and challenges.
+        <br />
+        <br />
+        <i>
+          If you like what you see on my website, please feel free to contact me
+          to discuss how I can help you with your next project. Thank you for
+          visiting my website, and I hope you enjoy my work!
+        </i>
       </p>
       {/* Social Icons */}
       <div className="flex flex-row cursor-pointer justify-center space-x-2 md:space-x-8 mb-5 hover ? 'text-teal-500' : 'text-white-500'">

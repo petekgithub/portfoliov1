@@ -33,7 +33,7 @@ export default [
     title: "Guess Weather",
     imgUrl: "/assets/weather.png",
     stack: ["ReactJS", "TailwindCSS", "TypeScript"],
-    link: "",
+    link: "https://weather-condition-q3a0xaoww-petekgithub.vercel.app/",
   },
   {
     title: "Blogy Blog",

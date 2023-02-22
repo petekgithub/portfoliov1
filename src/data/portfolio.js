@@ -20,7 +20,7 @@ export default [
   {
     title: "FyloDark LandingPage",
     imgUrl: "/assets/fylo.png",
-    stack: ["NextJS", "CSS", "TypeScript"],
+    stack: ["HTML", "CSS", "JS"],
     link: "https://fylo-dark-landing-page-five.vercel.app/",
   },
   {

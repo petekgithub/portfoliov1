@@ -24,27 +24,27 @@ export default [
     link: "https://fylo-dark-landing-page-five.vercel.app/",
   },
   {
-    title: "Uifry LandingPage",
-    imgUrl: "/assets/uifry.png",
-    stack: ["NextJS", "SCSS", "TypeScript"],
-    link: "https://landingpage-uifry.vercel.app/",
-  },
-  {
     title: "Guess Weather",
     imgUrl: "/assets/weather.png",
     stack: ["ReactJS", "TailwindCSS", "TypeScript"],
     link: "https://weather-condition-q3a0xaoww-petekgithub.vercel.app/",
   },
   {
+    title: "Uifry LandingPage",
+    imgUrl: "/assets/uifry.png",
+    stack: ["NextJS", "SCSS", "TypeScript"],
+    link: "https://landingpage-uifry.vercel.app/",
+  },
+  {
+    title: "Thunder",
+    imgUrl: "/assets/banner.png ",
+    stack: ["Shopify"],
+    link: "https://shoppetexy.com/",
+  },
+  {
     title: "Blogy Blog",
     imgUrl: "/assets/blog.png",
     stack: ["NodeJs", "JavaScript", "ReactJs"],
-    link: "",
-  },
-  {
-    title: "Realtime Chat App",
-    imgUrl: "/assets/chat.png",
-    stack: ["Socket.io", "Nodejs", "ReactJs"],
     link: "",
   },
   {

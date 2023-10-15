@@ -28,7 +28,6 @@ function App() {
     }
   }, [theme]);
 
-  // comes from heroicons.com
   const sun = (
     <svg
       xmlns="http://www.w3.org/2000/svg"

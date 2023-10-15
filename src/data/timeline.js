@@ -1,43 +1,44 @@
 export default [
   {
-    year: "Modaramo Media (Present)",
-    title: "FrontEnd Developer & Product Manager",
-    duration: "6 months",
-    details: "still working...",
+    year: "Modaramo Media",
+    title: "FrontEnd Developer & PM",
+    duration: "Aug 2022 - Aug 2023",
+    details:
+      "As a FrontEnd developer, I contributed to project management, overseeing sprints and tasks using Jira. In addition to that, I collaborated on small projects using Next.js, where I created landing pages. These collaborative efforts included pair programming sessions and debugging tasks.",
   },
   {
-    year: "Ithinka Information Technologies (2022-2022)",
+    year: "Ithinka Information Technologies",
     title: "FrontEnd Developer",
-    duration: "5 months",
+    duration: "Apr 2022 - Aug 2022",
     details:
-      "I worked as a FrontEnd developer on a project. We developed some parts and did the conversion to ReactJS. This was an online banking conversion project. I worked with IntellijIDE and SourceTree on that project.",
+      "I served as a FrontEnd developer on an online banking conversion project. My role involved developing and converting parts to ReactJS, using IntellijIDE and SourceTree.",
   },
   {
-    year: "Heidelberg University (2019 - 2022)",
+    year: "Heidelberg University ",
     title: "Master of Science / ERASMUS",
-    duration: "6 months",
+    duration: "May 2021 - Sep 2021",
     details:
-      "I took some Game design, Algorithm, and Deep learning-related lectures / seminars from the University of Heidelberg.",
+      "I attended lectures and seminars on Game Design, Algorithms, and Deep Learning at the University of Heidelberg.",
   },
   {
-    year: "Ege University (2019 - 2022)",
+    year: "Ege University",
     title: "Master of Science / Information Technologies",
-    duration: "3 years",
+    duration: "Sep 2019 - Feb 2022",
     details:
-      "When working as a laboratory assistant; I realized that I wanted to work with tech-related projects/jobs. Not with unhealthy ones :) I searched and learned some basic Computer Science related courses. Then I applied to my home university again but this time the Information Technologies Master program. I enrolled and I learned about Computer Architecture, Computer Science Theory, Object Oriented Programming. I went to Heidelberg / Germany like an exchange student ( University of Heidelberg) ",
+      "While working as a lab assistant, I uncovered my passion for tech projects. I pursued a Master's in Information Technologies, diving into Computer Architecture, Theory, and Object-Oriented Programming. I also had the opportunity to study abroad in Heidelberg, Germany, at the University of Heidelberg.",
   },
   {
-    year: "Uludag University (2017 - 2019)",
+    year: "Uludag University",
     title: "Master of Science / Organic Chemistry",
-    duration: "2 years",
+    duration: "2017 - 2019",
     details:
-      "After my chemistry bachelor, I applied to a master's program and I enrolled the Organic Chemistry master's program at Uludag University. I worked on some polymers and at that time I worked as a laboratory assistant and worked with some specific chemistry machines ( SEM / FTIR etc.). ",
+      "Following my Chemistry Bachelor's, I pursued a Master's in Organic Chemistry at Uludag University. I specialized in polymers and gained valuable experience as a laboratory assistant, working with advanced chemistry equipment such as SEM and FTIR machines.",
   },
   {
-    year: "Ege Univesity (2011 - 2017)",
+    year: "Ege Univesity",
     title: "Bachelor / Chemistry",
-    duration: "4 years",
+    duration: "2011 - 2017",
     details:
-      "I studied chemistry as my Bachelor's. I learned many things about nature and science. I worked on lots of different projects and also laboratories.",
+      "I earned a Bachelor's in Chemistry, gaining in-depth knowledge of nature and science. I actively participated in various projects and lab work.",
   },
 ];

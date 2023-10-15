@@ -4,37 +4,23 @@ const Intro = () => {
   return (
     <div className="flex items-center justify-center flex-col text-center pt-20 pb-6">
       <h1 className="text-4xl md:text-6xl dark:text-white mb-1 md:mb-3 font-bold">
-        Petek Savaş Hamitbeyli
+        Petek Savaş
       </h1>
-      <p className="text-4xl md:text-xl mb-3 font-bold">
-        <u>FrontEnd Web Developer</u>
-      </p>
+      <p className="text-4xl md:text-xl mb-3 font-bold">FrontEnd Developer</p>
       <p className="text-sm max-w-xl mb-6 font-medium">
-        <strong>Welcome!</strong>
         <br />
         <br />
-        I am a frontend web developer with over 1 year of experience of building
-        modern, responsive, and user-friendly web applications. I am well-versed
-        in modern web technologies such as HTML, CSS, and JavaScript /
-        Typescript and has a strong understanding of responsive design
-        principles. I also experienced in working with popular frontend
-        frameworks such as React. I am a quick learner and is always eager to
-        stay up-to-date with the latest trends and advancements in the industry.
-        I am a dedicated team player and is able to collaborate effectively with
-        designers, developers, and other stakeholders.
+        I'm not just here to follow trends; I set my own, always pushing the
+        boundaries of web development. Collaboration is my forte. Working
+        harmoniously with designers, developers, and stakeholders is like
+        composing a symphony of pixels and code.
         <br />
         <br />
-        In addition to my portfolio, you will also find information about my
-        background, education, and experience and, you will find a selection of
-        my best work. I am always looking to improve my skills and broaden my
-        knowledge, and I am open to new opportunities and challenges.
+        On my portfolio, you'll discover a carefully curated collection of my
+        finest creations, each a testament to my commitment to excellence.
         <br />
         <br />
-        <i>
-          If you like what you see on my website, please feel free to contact me
-          to discuss how I can help you with your next project. Thank you for
-          visiting my website, and I hope you enjoy my work!
-        </i>
+        <i>Thank you for stepping into my digital atelier.</i>
       </p>
       {/* Social Icons */}
       <div className="flex flex-row cursor-pointer justify-center space-x-2 md:space-x-8 mb-5 hover ? 'text-teal-500' : 'text-white-500'">
@@ -106,18 +92,16 @@ const Intro = () => {
             <path d="M9 18c-4.51 2-5-2-7-2"></path>
           </svg>
         </a>
-        <a href="https://codepen.io/Petekqt">
+        <a href="https://www.behance.net/peteksavah">
           <svg
-            className="w-15"
-            fill="#ffffff"
+            xmlns="http://www.w3.org/2000/svg"
             width="24"
             height="24"
-            viewBox="0 5 24 24"
-            version="1.1"
-            xmlns="http://www.w3.org/2000/svg"
+            fill="#888"
+            viewBox="0 0 24 24"
           >
-            <path d="M15.96 17.040l-1.68-1.16 1.68-1.28v2.44zM12.88 14.84l-3.2-2.28v-3.72l5.72 4.040-2.52 1.96zM8.8 17.92l-2.64-2.040 2.64-1.88 2.64 1.88-2.64 2.040zM7.96 12.56l-3.2 2.28-2.52-1.92 5.72-4.040v3.68zM1.68 14.6l1.68 1.28-1.68 1.16v-2.44zM4.72 16.92l3.24 2.48v3.64l-5.72-4.36 2.48-1.76zM9.64 19.4l3.24-2.48 2.48 1.76-5.72 4.36v-3.64zM8.16 6.56l-7.68 5.56c-0.28 0.2-0.48 0.56-0.48 0.92v5.6c0 0.36 0.16 0.68 0.44 0.92l7.68 5.88c0.4 0.32 0.96 0.32 1.4 0l7.68-5.88c0.28-0.2 0.44-0.56 0.44-0.92v-5.6c0-0.36-0.16-0.72-0.48-0.92l-7.68-5.56c-0.4-0.28-0.92-0.28-1.32 0z" />{" "}
-          </svg>
+            <path d="M22 7h-7v-2h7v2zm1.726 10c-.442 1.297-2.029 3-5.101 3-3.074 0-5.564-1.729-5.564-5.675 0-3.91 2.325-5.92 5.466-5.92 3.082 0 4.964 1.782 5.375 4.426.078.506.109 1.188.095 2.14h-8.027c.13 3.211 3.483 3.312 4.588 2.029h3.168zm-7.686-4h4.965c-.105-1.547-1.136-2.219-2.477-2.219-1.466 0-2.277.768-2.488 2.219zm-9.574 6.988h-6.466v-14.967h6.953c5.476.081 5.58 5.444 2.72 6.906 3.461 1.26 3.577 8.061-3.207 8.061zm-3.466-8.988h3.584c2.508 0 2.906-3-.312-3h-3.272v3zm3.391 3h-3.391v3.016h3.341c3.055 0 2.868-3.016.05-3.016z" />
+          </svg>{" "}
         </a>
       </div>
     </div>

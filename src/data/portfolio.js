@@ -20,7 +20,7 @@ export default [
   {
     title: "FyloDark LandingPage",
     imgUrl: "/assets/fylo.png",
-    stack: ["HTML", "CSS", "JS"],
+    stack: ["HTML", "CSS", "JavaScript"],
     link: "https://fylo-dark-landing-page-five.vercel.app/",
   },
   {
@@ -44,13 +44,13 @@ export default [
   {
     title: "Blogy Blog",
     imgUrl: "/assets/blog.png",
-    stack: ["Next.Js", "JavaScript", "ReactJs", "MongoDB", "Pagination"],
+    stack: ["NextJS", "JavaScript", "ReactJS", "MongoDB", "Pagination"],
     link: "",
   },
   {
     title: "React Dashboard App",
     imgUrl: "/assets/dashboard.png",
-    stack: ["Socket.io", "Nodejs", "ReactJs"],
+    stack: ["Socket.io", "NodeJS", "ReactJS"],
     link: "",
   },
 ];

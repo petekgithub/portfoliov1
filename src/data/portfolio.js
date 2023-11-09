@@ -44,7 +44,7 @@ export default [
   {
     title: "Blogy Blog",
     imgUrl: "/assets/blog.png",
-    stack: ["NodeJs", "JavaScript", "ReactJs"],
+    stack: ["Next.Js", "JavaScript", "ReactJs", "MongoDB", "Pagination"],
     link: "",
   },
   {

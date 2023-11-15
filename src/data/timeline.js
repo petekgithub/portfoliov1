@@ -11,7 +11,7 @@ export default [
     title: "FrontEnd Developer",
     duration: "Apr 2022 - Aug 2022",
     details:
-      "I served as a FrontEnd developer on an online banking conversion project. My role involved developing and converting parts to ReactJS, using IntellijIDE and SourceTree.",
+      "I contribute as a FrontEnd developer in an online banking conversion project. My responsibilities include proficiently developing and converting various components to ReactJS, utilizing IntellijIDE and SourceTree.",
   },
   {
     year: "Heidelberg University ",

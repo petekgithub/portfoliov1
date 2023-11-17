@@ -8,7 +8,7 @@ export default [
   {
     title: "Cryptocurrency Tracker",
     imgUrl: "/assets/currency.png",
-    stack: ["ReactJs", "JavaScript"],
+    stack: ["ReactJs", "CSS", "JavaScript"],
     link: "https://cryptocurrency-tracker-puce.vercel.app/",
   },
   {

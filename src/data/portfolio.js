@@ -47,10 +47,4 @@ export default [
     stack: ["NextJS", "JavaScript", "ReactJS", "MongoDB", "Pagination"],
     link: "",
   },
-  {
-    title: "React Dashboard App",
-    imgUrl: "/assets/dashboard.png",
-    stack: ["Socket.io", "NodeJS", "ReactJS"],
-    link: "",
-  },
 ];

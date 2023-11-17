@@ -36,15 +36,27 @@ export default [
     link: "https://landingpage-uifry.vercel.app/",
   },
   {
-    title: "Thunder",
-    imgUrl: "/assets/banner.png ",
-    stack: ["Shopify"],
-    link: "https://shoppetexy.com/",
-  },
-  {
     title: "Blogy Blog",
     imgUrl: "/assets/blog.png",
     stack: ["NextJS", "JavaScript", "ReactJS", "MongoDB", "Pagination"],
     link: "",
+  },
+  {
+    title: "WanderLocate",
+    imgUrl: "/",
+    stack: ["JavaScript", "ReactJS", "MaterialUI", "GoogleMaps"],
+    link: "",
+  },
+  {
+    title: "UI-UX Website",
+    imgUrl: "/",
+    stack: ["NextJS", "TypeScript", "TailwindCSS"],
+    link: "",
+  },
+  {
+    title: "Thunder",
+    imgUrl: "/assets/banner.png ",
+    stack: ["Shopify"],
+    link: "https://shoppetexy.com/",
   },
 ];

@@ -1,6 +1,6 @@
 export default [
   {
-    title: "Qute Generator",
+    title: "Quote Generator",
     imgUrl: "/assets/quoute.png",
     stack: ["HTML", "CSS", "JavaScript"],
     link: "https://quote-generator-lilac-eta.vercel.app/",

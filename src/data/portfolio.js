@@ -43,7 +43,7 @@ export default [
   },
   {
     title: "WanderLocate",
-    imgUrl: "/",
+    imgUrl: "/assets/wander.png",
     stack: ["JavaScript", "ReactJS", "MaterialUI", "GoogleMaps"],
     link: "",
   },

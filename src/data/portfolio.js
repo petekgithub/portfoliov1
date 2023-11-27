@@ -48,10 +48,10 @@ export default [
     link: "",
   },
   {
-    title: "UI-UX Website",
-    imgUrl: "/",
-    stack: ["NextJS", "TypeScript", "TailwindCSS"],
-    link: "",
+    title: "Nike",
+    imgUrl: "/assets/nike.png",
+    stack: ["TailwindCSS"],
+    link: "https://nike-landing-l9fwr2ki4-petekgithub.vercel.app/",
   },
   {
     title: "Thunder",

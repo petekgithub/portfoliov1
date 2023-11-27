@@ -50,7 +50,7 @@ export default [
   {
     title: "Nike LandingPage",
     imgUrl: "/assets/nike.png",
-    stack: ["TailwindCSS"],
+    stack: ["TailwindCSS", "JavaScript", "ReactJS"],
     link: "https://nike-landing-l9fwr2ki4-petekgithub.vercel.app/",
   },
   {

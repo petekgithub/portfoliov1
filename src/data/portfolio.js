@@ -48,7 +48,7 @@ export default [
     link: "",
   },
   {
-    title: "Nike",
+    title: "Nike LandingPage",
     imgUrl: "/assets/nike.png",
     stack: ["TailwindCSS"],
     link: "https://nike-landing-l9fwr2ki4-petekgithub.vercel.app/",

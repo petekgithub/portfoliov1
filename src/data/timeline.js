@@ -1,10 +1,10 @@
 export default [
   {
     year: "IncludeCore",
-    title: "FrontEnd Developer - Internship",
-    duration: "Now 2023 - ...",
+    title: "FrontEnd Developer - Freelancer",
+    duration: "Now 2023 - Jan 2024",
     details:
-      "As a FrontEnd developer, I work on marketing templates pages with Javascript, Html, Css.",
+      "As a FrontEnd developer, I worked on marketing templates pages with Javascript, Html, Css.",
   },
   {
     year: "Modaramo Media",

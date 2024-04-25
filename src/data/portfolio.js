@@ -59,4 +59,10 @@ export default [
     stack: ["Shopify"],
     link: "https://shoppetexy.com/",
   },
+  {
+    title: "CognoSolve",
+    imgUrl: "/assets/cognosolve.png ",
+    stack: ["ReactJS", "TailwinCss", "JavaScript"],
+    link: "https://cognosolve.vercel.app/",
+  },
 ];

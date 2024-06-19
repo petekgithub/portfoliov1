@@ -1,5 +1,12 @@
 export default [
   {
+    year: "Consid",
+    title: "FrontEnd Developer - Freelancer",
+    duration: "May 2024 - June 2024",
+    details:
+      "As a FrontEnd developer, I worked with Sanity CMS, Zod, ShadcnUI, TypeScript, Storybook, and Figma to create an e-commerce template.",
+  },
+  {
     year: "IncludeCore",
     title: "FrontEnd Developer - Freelancer",
     duration: "Now 2023 - Jan 2024",

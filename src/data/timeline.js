@@ -1,5 +1,11 @@
 export default [
   {
+    year: "Hiwell",
+    title: "FrontEnd Developer",
+    duration: "Jan 2025",
+    details: "",
+  },
+  {
     year: "Consid",
     title: "Software Developer - Freelancer",
     duration: "May 2024 - June 2024",
